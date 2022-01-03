@@ -1,0 +1,24 @@
+.div{
+    border: 10px solid wheat;
+    background: darkslategray;
+    color: chartreuse;
+    
+
+}
+.blog{
+    display:inline-block
+    color: chartreuse;
+    text-align: center;
+}
+#h2{
+    text-align: right;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.raiyan{
+    color: white;
+    border-width: 5px ;
+    border-color: white;
+    background: purple;
+}
